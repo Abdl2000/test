@@ -4,5 +4,5 @@
 
 
 
-<img align="right" src="https://github.com/RelentlessRDS/INNO-TNO/blob/main/assets/TNO%20logo.jpg" height=500>
+<img style="margin-right: 30px" align="right" src="https://github.com/RelentlessRDS/INNO-TNO/blob/main/assets/TNO%20logo.jpg" height=100>
 
