@@ -7,5 +7,5 @@
 <img style="margin-right: 500px" align="right" src="https://github.com/RelentlessRDS/INNO-TNO/blob/main/assets/TNO%20logo.jpg" height=500>
 
 <div align="center">
-  <span><img src="[./loginScreen.jpg](https://github.com/RelentlessRDS/INNO-TNO/blob/main/assets/TNO%20logo.jpg)" height=650 width=300 /></span>
+  <span><img src="[./loginScreen.jpg](https://github.com/RelentlessRDS/INNO-TNO/blob/main/assets/TNO%20logo.jpg)" height=100 width=300 /></span>
 </div>
